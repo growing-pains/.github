@@ -13,12 +13,12 @@
 
 ### Progress
 
-* [프로젝트 진행 방식](PROGRESS.md)
+* [프로젝트 진행 방식](https://github.com/growing-pains/.github/blob/master/profile/PROGRESS.md)
 
 ### Why is it going like this?
 
-* [왜 이런 방식으로 진행되는가?](WHY.md)
+* [왜 이런 방식으로 진행되는가?](https://github.com/growing-pains/.github/blob/master/profile/WHY.md)
 
 ### ect...
 
-* [기타](ETC.md)
+* [기타](https://github.com/growing-pains/.github/blob/master/profile/ETC.md)
